@@ -1,0 +1,46 @@
+Ford Sales Review (2014–2019)
+
+This sales review analysis was carried out to better understand how ford vehicles performed between 2014 and 2019. By examining sales figures across different years, vehicle models, fuel types, and transmission options, the analysis helps reveal what is selling well, what is not, and why. These insights are important for making informed decisions around product focus, marketing strategies, and future planning.
+Rather than relying on assumptions, this analysis uses actual sales data to highlight patterns and trends that can guide smarter business actions.
+The dashboard design intentionally combines a dark background with bright yellow and orange tones to improve clarity and user experience.
+Overall, the color choices were made to ensure the dashboard is both visually appealing and easy to understand, even for non-technical users.
+
+Dataset Used: https://www.kaggle.com/datasets/adhurimquku/ford-car-price-prediction
+
+Observations
+
+•	Strong overall performance:
+Total sales for the period amount to $220.6 million, showing a healthy sales performance across the years reviewed.
+
+•	Best sales year identified:
+The year 2017 stands out as the strongest sales year, indicating successful market performance during that period.
+
+•	Clear fuel type preference:
+Petrol vehicles account for the majority of sales, contributing over 64% of total revenue. This shows a strong customer preference for petrol-powered vehicles.
+
+•	Transmission trends:
+Manual transmission vehicles significantly outperform other transmission types, generating the highest sales revenue.
+
+•	Top-performing models:
+The Ford Fiesta leads in sales, followed closely by the Focus and Kuga models.
+On the other hand, Mondeo records the lowest sales, suggesting lower market demand.
+
+Recommendations Based on the Findings
+
+•	Focus on high-performing models:
+Models such as the Fiesta and Focus should continue to receive strong marketing and production support.
+
+•	Align with customer fuel preferences:
+Since petrol vehicles dominate sales, future strategies should prioritize petrol models while still exploring efficiency improvements.
+
+•	Review low-performing models:
+Models with weaker sales performance should be assessed to determine whether improvements, repositioning, or discontinuation is necessary.
+
+•	Learn from successful years:
+Sales strategies used in 2017 should be reviewed and adapted to help drive future sales growth.
+
+•	Plan for evolving transmission preferences:
+While manual vehicles perform well, exploring opportunities to grow automatic transmission sales could be beneficial in the long term.
+
+Final Notes:
+This dashboard presents sales data in a clear and engaging way, making it easy to identify trends, strengths, and areas for improvement. By combining thoughtful design with meaningful insights, the analysis supports better understanding, learning, and decision-making.
